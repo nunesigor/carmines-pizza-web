@@ -1,3 +1,13 @@
 nav-green{
     background-color: #317d45 !important;
 }
+
+@font-face {
+    font-family: 'Brannboll';
+    src: url('../fonts/BrannbollFS_PERSONAL.ttf');
+}
+
+@font-face {
+    font-family: 'Mickey';
+    src: url("../fonts/Mickey's School.ttf");
+}
